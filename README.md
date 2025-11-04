@@ -7,7 +7,8 @@ Trata-se de uma implementação simples e didática de um encurtador de URLs com
 &nbsp;&nbsp;&nbsp;&nbsp;Não deve ser usado em produção. O foco é compreender a integração entre Java, AWS Lambda e Amazon S3.
 
 🎯 Objetivo do Projeto  
-&nbsp;&nbsp;&nbsp;&nbsp;Este projeto foi criado exclusivamente para estudos e teste de integração com AWS:
+
+Este projeto foi criado exclusivamente para estudos e teste de integração com AWS:
 
 * Demonstra integração Java ↔ AWS Lambda
 * Usa o Amazon S3 como armazenamento simples em JSON
