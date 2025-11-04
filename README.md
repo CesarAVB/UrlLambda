@@ -1,7 +1,7 @@
 ☁️ AWS Lambda – Projeto de Teste de Integração com AWS
 
 Este projeto foi desenvolvido apenas como teste de integração entre uma aplicação Java e os serviços da AWS (Lambda e S3).  
-&nbsp;&nbsp;&nbsp;&nbsp;Trata-se de uma implementação simples e didática de um encurtador de URLs com tempo de expiração, utilizando uma arquitetura totalmente serverless.
+Trata-se de uma implementação simples e didática de um encurtador de URLs com tempo de expiração, utilizando uma arquitetura totalmente serverless.
 
 ⚠️ Atenção: O propósito deste projeto é somente acadêmico e de experimentação técnica.  
 &nbsp;&nbsp;&nbsp;&nbsp;Não deve ser usado em produção. O foco é compreender a integração entre Java, AWS Lambda e Amazon S3.
