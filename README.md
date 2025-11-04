@@ -3,8 +3,7 @@
 Este projeto foi desenvolvido apenas como teste de integração entre uma aplicação Java e os serviços da AWS (Lambda e S3).  
 Trata-se de uma implementação simples e didática de um encurtador de URLs com tempo de expiração, utilizando uma arquitetura totalmente serverless.
 
-⚠️ Atenção: O propósito deste projeto é somente acadêmico e de experimentação técnica.  
-Não deve ser usado em produção. O foco é compreender a integração entre Java, AWS Lambda e Amazon S3.
+⚠️ Atenção: O propósito deste projeto é apenas para estudo. Não deve ser usado em produção. O foco é compreender a integração entre Java, AWS Lambda e Amazon S3.
 
 🎯 Objetivo do Projeto  
 
